@@ -19,7 +19,7 @@
 
 
 #### Catatan Dan Aturan:
-- Hati-hati dengan case-sensitive terutama camelCase yang.
+- Hati-hati dengan case-sensitive terutama camelCase.
 
 
 ## Pembahasan
@@ -38,9 +38,10 @@
 /*
   Multi Line
 */
-/// Coments for documenatation
+/// Comments for documentation
 ```
 
 ## Environment
 - [Dart SDK](https://dart.dev/get-dart/archive)
 - Code Editor: [VSCode](https://code.visualstudio.com/), [DartPad](https://dartpad.dev/), dan lain-lain.
+- Flutter Online IDE: [Flutlab](https://flutlab.io/)
