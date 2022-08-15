@@ -1,8 +1,8 @@
-import './Source Code/Rectangle.dart';
+// main.dart
+import 'Programmer.dart';
 
-void main(List<String> args) {
-  var kotak = Rectangle();
-  kotak.width = 8;
-  kotak.height = 6;
-  print(kotak.width * kotak.height);
+void main() {
+  var dart = MobileDev("Dart", true, 2011, "Android & Ios");
+  dart.sayHello();
+  dart.intro();
 }
